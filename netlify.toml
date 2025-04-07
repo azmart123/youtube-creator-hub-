@@ -4,3 +4,7 @@
 
 [dev]
   command = "echo 'Running in development mode'"
+
+[build]
+  command = "echo 'Running in development mode'"
+  publish = "/"
