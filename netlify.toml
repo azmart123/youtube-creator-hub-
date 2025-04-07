@@ -1,6 +1,6 @@
 [build]
-  command = "echo 'Simple HTML site'"
+  command = "echo 'Running in development mode'"
   publish = "/*"
 
 [dev]
-  command = "echo 'Running in development mode'”
+  command = "echo 'Running in development mode'"
